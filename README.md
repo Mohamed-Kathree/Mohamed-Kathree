@@ -105,6 +105,5 @@ I’m a motivated, detail-oriented student with hands-on experience in **web dev
 Add your real links by replacing the placeholders below:
 
 [![Email](https://img.shields.io/badge/Email-4253340%40myuwc.ac.za-blue?style=for-the-badge)](mailto:4253340@myuwc.ac.za)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedKathree)
-[![GitHub](https://img.shields.io/badge/GitHub-Add%20your%20profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Kathree)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Kathree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedKathree)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Kathree-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Kathree)
