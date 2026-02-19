@@ -4,7 +4,7 @@ Hi! I’m **Mohamed Yusuf Kathree**, a **BSc Computer Science student** at the *
 
 I’m a motivated, detail-oriented student with hands-on experience in **web development**, **software engineering**, and **physics-based simulations**. My career goal is to grow into a **software engineer** working on impactful real-world systems—especially where **algorithms, networks, and embedded systems** meet.
 
-**Currently:** building a **Automated CFD Trading BOT** for university students.
+**Currently:** building a **Automated CFD Trading BOT**.
 
 ---
 
