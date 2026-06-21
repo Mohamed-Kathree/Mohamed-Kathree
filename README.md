@@ -90,7 +90,7 @@ Developed and backtested a fully automated trading algorithm. Demonstrated appli
 </details>
 
 <details>
-<summary><strong>🌐 Peer-Review & Tutoring Platform</strong> — <em>Ongoing</em></summary>
+<summary><strong>🌐 Peer-Review & Tutoring Platform</strong> — 2025</summary>
 
 > `React` `Next.js` `HTML/CSS`
 
