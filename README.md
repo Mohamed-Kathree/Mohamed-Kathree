@@ -39,6 +39,10 @@ My career goal is to grow into a **software engineer** working on impactful real
   <a href="https://sites.google.com/myuwc.ac.za/rlglide/home" target="_blank">
     <img src="https://img.shields.io/badge/Project%20Site-RL%20Glider-0d1117?style=flat-square&logo=google&logoColor=white&labelColor=34A853" alt="RL Glider Project Site"/>
   </a>
+  &nbsp;
+  <a href="https://mohamed-kathree.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mohamed--kathree.github.io-0d1117?style=flat-square&logo=githubpages&logoColor=white&labelColor=1B3A5C" alt="Portfolio Site"/>
+  </a>
 </p>
 
 ---
@@ -168,7 +172,7 @@ Built and deployed a full e-commerce website (`thegamingwarehouse.online`, no lo
 
 **Senior Student Assistant** — Faculty of Natural Science, UWC · *Jan 2022 – Jan 2025*
 
-Served as Senior Student Assistant for 2 out of 3 years. Provided academic support to undergraduate peers across various computer science modules, assisted faculty with technical tasks including lab setup and software troubleshooting, and managed administrative duties to ensure smooth departmental operations.
+Served as Senior Student Assistant for 3 years. Provided academic support to undergraduate peers across various computer science modules, assisted faculty with technical tasks including lab setup and software troubleshooting, and managed administrative duties to ensure smooth departmental operations.
 
 ---
 
